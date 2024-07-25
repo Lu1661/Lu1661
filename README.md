@@ -1,12 +1,9 @@
-¡Hola! Soy Lu1661, 
-Estoy interesado en Python, Mysql 
-Actualmente estoy en el nivel intermedio de Python y intermedio de Mysql, que termine y aprendere MachineLearning y/o Bigdata
-tambien estoy interesado en aprender JavaScript, HTML, y CSS y algunos frameworks relevantes para poder ser un programador/desarrollador full-stack
-Estoy buscando colaborar y a la vez aprender de python/Mysql y mas adelante de lo frontend
-Si se puede contactar por aca perfecto
+¡Hola! Soy Luiggi,
+Actualmente, tengo experiencia en Python y MySQL, con un nivel intermedio en ambos. He avanzado en el aprendizaje de Machine Learning y Big Data, y continúo ampliando mis conocimientos en estas áreas. También tengo experiencia en manipulación de datos utilizando pandas, numpy, y matplotlib, y estoy trabajando en SQL y Python para análisis de datos.
+Estoy enfocado en profundizar en Cloud Computing, Machine Learning, Big Data, y Data Science. Siempre estoy buscando oportunidades para colaborar y aprender más en estos campos.
+Puedes contactarme aquí para discutir proyectos, colaboraciones o cualquier tema relacionado con estos temas.
 
-Hi there! I'm Lu1661.
-I'm interested in Python and MySQL. Currently, according to my classes, I'm at an intermediate level in Python and intermediate in MySQL. Once I finish, I plan to learn Machine Learning and/or Big Data.
-I'm also interested in learning JavaScript, HTML, and CSS, along with some relevant frameworks to become a full-stack programmer/developer.
-I'm looking to collaborate and at the same time learn more about Python/MySQL and later on about frontend development.
-If possible, you can contact me here. Perfect!
+Hello! I'm Luiggi,
+I have experience in Python and MySQL, with an intermediate level in both. I have been advancing my knowledge in Machine Learning and Big Data, and I'm continuing to deepen my expertise in these areas. I also have experience in data manipulation using pandas, numpy, and matplotlib, and I am working on SQL and Python for data analysis.
+I am focused on furthering my skills in Cloud Computing, Machine Learning, Big Data, and Data Science. I am always looking for opportunities to collaborate and learn more in these fields.
+Feel free to contact me here to discuss projects, collaborations, or any topics related to these areas.
